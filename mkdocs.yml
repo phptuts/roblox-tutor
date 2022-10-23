@@ -1,0 +1,10 @@
+site_name: Roblox Tutor Notes
+nav:
+  - Start Here: index.md
+  - Beginner:
+      - Making a door open: beginner/making-door-open.md
+
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages: ['lua']
